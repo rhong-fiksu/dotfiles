@@ -4,10 +4,10 @@
 [hub]
         protocol = https
 [user]
-        name = Ronald Hong
-        email = ronniejhong@gmail.com
+	name = Ronald Hong
+	email = ron@wistia.com
 [credential]
-        helper = osxkeychain
+	helper = osxkeychain
 [alias]
         co = checkout
         promote = !$ZSH/bin/git-promote
@@ -21,7 +21,7 @@
         ui = true
 [core]
         excludesfile = ~/.gitignore
-        editor = vim
+	editor = vim
 [apply]
         whitespace = nowarn
 [mergetool]
@@ -39,3 +39,5 @@
 [status]
 	short = true
 	branch = true
+[pull]
+	rebase = true
