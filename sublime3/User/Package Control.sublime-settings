@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"CTags",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-haml",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Cobalt2",
+		"TrailingSpaces",
+		"Vintageous"
+	]
+}
