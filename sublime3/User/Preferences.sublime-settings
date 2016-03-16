@@ -1,6 +1,6 @@
 {
 	"auto_complete": false,
-	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -15,7 +15,7 @@
 		"Vintage"
 	],
 	"tab_size": 2,
-	"theme": "Cobalt2.sublime-theme",
+	"theme": "Oceanic Next.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true

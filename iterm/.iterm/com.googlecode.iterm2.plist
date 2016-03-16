@@ -574,8 +574,10 @@
 	</dict>
 	<key>NSWindow Frame Preferences</key>
 	<string>269 197 606 456 0 0 1440 877 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2 28 1433 848 0 0 1440 877 </string>
+	<string>2 29 1418 848 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>176 70 1125 652 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
@@ -1235,6 +1237,10 @@
 			<string>/Users/rhong</string>
 		</dict>
 	</array>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste</key>
+	<true/>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
+	<integer>0</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1287,13 +1293,17 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-02-22T16:21:17Z</date>
+	<date>2016-03-16T01:16:19Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyle</key>
 	<integer>1</integer>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
+	<key>findIgnoreCase_iTerm</key>
+	<true/>
+	<key>findRegex_iTerm</key>
+	<false/>
 	<key>iTerm Version</key>
 	<string>2.9.20160206</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>

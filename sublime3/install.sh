@@ -10,5 +10,5 @@ rm -r ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User &&
 ln -s `pwd`/sublime3/User ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 
 # Install linty lint lint
-npm install -g jsxhint
+npm install -g eslint
 npm install -g jshint
