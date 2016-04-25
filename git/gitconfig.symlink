@@ -41,3 +41,8 @@
 	branch = true
 [pull]
 	rebase = true
+[log]
+	abbrevCommit = true
+	decorate = true
+[format]
+	pretty = oneline
