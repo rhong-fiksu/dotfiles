@@ -29,3 +29,13 @@ Runs all of the installers named `install.sh` in the repo.
 ### script/bootstrap
 Symlinks all of the files that match `*.symlink` in the repo to your home directory.
 [See implementation for matching and naming](https://github.com/flushentitypacket/dotfiles/blob/b9c9d11228d6025ed2697335f5652505ca8bb6ab/script/bootstrap#L128-L138).
+
+### iterm
+
+```
+sh iterm/symlink.sh
+```
+
+iTerm2 > Preferences
+Preferences > Load preferences from a custom folder or URL
+`~/.iterm`
