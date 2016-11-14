@@ -1,0 +1,10 @@
+export ZSH_DIR="$HOME/.zshdir"
+
+# User configuration
+export PATH="$PATH:$ZSH_DIR/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+source "$ZSH_DIR/antigen.zsh"
+source "$ZSH_DIR/editor.zsh"
+source "$ZSH_DIR/aliases.zsh"
+source "$ZSH_DIR/grc.zsh"
+source "$ZSH_DIR/rvm.zsh"

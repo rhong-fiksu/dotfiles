@@ -8,7 +8,7 @@
 		".tags_sorted_by_file",
 		".gemtags"
 	],
-	"font_size": 17,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"JavaScript",
