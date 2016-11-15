@@ -9,6 +9,6 @@ antigen use oh-my-zsh
 # antigen bundle command-not-found
 # antigen bundle zsh-users/zsh-syntax-highlighting
 
-antigen theme flushentitypacket/dotfiles $ZSH_DIR/themes/ron
+antigen theme https://gist.github.com/flushentitypacket/1669e39e1f0190bd7ae0c869b50f984c ron.zsh
 
 antigen apply
