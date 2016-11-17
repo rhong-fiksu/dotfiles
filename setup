@@ -69,8 +69,8 @@ def copy_symlinks
   end
 end
 
-# install_homebrew
-# install_base_packages
-# install_applications
-# run_installers
+install_homebrew
+install_base_packages
+install_applications
+run_installers
 copy_symlinks
