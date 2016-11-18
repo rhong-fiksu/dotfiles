@@ -1,5 +1,5 @@
 # Add this dir's bin to path, along with some other standard bin/sbin
-export PATH="$PATH:$ZSH_DIR/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="$PATH:$ZSH_DIR/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 source "$ZSH_DIR/antigen.zsh"
 source "$ZSH_DIR/editor.zsh"
