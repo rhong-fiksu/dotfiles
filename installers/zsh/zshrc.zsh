@@ -3,6 +3,9 @@ export PATH="$PATH:$ZSH_DIR/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/us
 # https://gist.github.com/DanHerbert/9520689
 export PATH="$HOME/.npm-packages/bin:$PATH"
 
+# disable autocorrect
+unsetopt correct_all
+
 source "$ZSH_DIR/antigen.zsh"
 source "$ZSH_DIR/editor.zsh"
 source "$ZSH_DIR/aliases.zsh"
