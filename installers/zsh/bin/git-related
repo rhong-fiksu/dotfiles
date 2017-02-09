@@ -12,4 +12,4 @@ git log --follow --format=format:%H $1 |
   # count up unique instances of each filename
   sort | uniq -c |
   # sort by # of instances in descending order
-  sort -r
+  sort -rn
